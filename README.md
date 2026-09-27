@@ -28,7 +28,7 @@
 Hi, I'm **Wenjie**, an AI application and agent developer. I build **AI Agents, Agent Runtimes and AI-powered applications** — and I care about the whole loop that makes an agent actually work in production: a solid runtime &amp; harness, well-engineered context, reliable tool calling, and the observability &amp; evals to prove it.
 
 - 🔭 I'm currently building agent runtimes and AI-powered applications
-- 🌱 I'm an active contributor to **Apache Magpie** (Incubating) and other open-source agent projects
+- 🌱 Active contributor to **Apache Magpie** (Incubating) and 10+ open-source AI projects — **20+ PRs, 6 merged** and counting
 - 💬 Ask me about **agents, tool calling &amp; MCP, context engineering, RAG, Text-to-SQL**
 - 📫 How to reach me: **TODO**
 
@@ -49,14 +49,29 @@ Hi, I'm **Wenjie**, an AI application and agent developer. I build **AI Agents, 
 
 ### 🚀 Open Source
 
-Contributing across the agent stack — **framework, runtime security, memory, and application layers**:
+**20+ PRs across the AI agent ecosystem** — framework, runtime security, tool calling, memory, and application layers:
 
 | Project | What it is | My contribution |
 | --- | --- | --- |
-| 🐦 [**Apache Magpie**](https://github.com/apache/magpie) *(Incubating)* | AI assistant framework that helps open-source maintainers triage issues, mentor contributors and draft docs | Contributor — perf &amp; robustness fixes for the issue/PR-triage skills ([PR #1400](https://github.com/apache/magpie/pull/1400)) |
-| 🧠 [**Agno**](https://github.com/agno-agi/agno) | Full-stack framework for building multi-modal agents | [PR #10600](https://github.com/agno-agi/agno/pull/10600) — reject forged tool continuations and enforce the approval gate on `/continue`, with regression tests |
-| 💾 [**mem0**](https://github.com/mem0ai/mem0) | Memory layer for AI agents and apps | [PR #7336](https://github.com/mem0ai/mem0/pull/7336) — fix AWS Bedrock (legacy Titan) response parsing · [PR #7432](https://github.com/mem0ai/mem0/pull/7432) — Pinecone index-name sanitization in `mem0-ts` |
-| 💬 [**LibreChat**](https://github.com/danny-avila/LibreChat) | Open-source AI chat app with multi-provider support | [PR #16314](https://github.com/danny-avila/LibreChat/pull/16314) — wire Open Responses API conversations into the title-generation pipeline (shared service refactor + 12 tests) |
+| 🐦 [**Apache Magpie**](https://github.com/apache/magpie) *(Incubating)* | AI assistant framework that helps open-source maintainers triage issues, mentor contributors and draft docs | Contributor — **5 PRs** ([#1390](https://github.com/apache/magpie/pull/1390) merged): trim the issue/PR-triage skill families, harden stats against untrusted timestamps, add Maven artifact verification to release checks |
+| 🧠 [**Agno**](https://github.com/agno-agi/agno) | Full-stack framework for building multi-modal agents | [#10600](https://github.com/agno-agi/agno/pull/10600) — reject forged tool continuations and enforce the approval gate on `/continue`, with regression tests |
+| 🌐 [**browser-use**](https://github.com/browser-use/browser-use) | Lets AI agents drive web browsers | [#5919](https://github.com/browser-use/browser-use/pull/5919) — support JSON Schema type arrays (e.g. `["string", "null"]`) in tool schema conversion |
+| 💬 [**LibreChat**](https://github.com/LibreChat-AI/LibreChat) | Open-source AI chat app with multi-provider support | [#16409](https://github.com/LibreChat-AI/LibreChat/pull/16409) — generate titles for Open Responses API conversations (shared-service refactor + 12 tests) |
+| 💾 [**mem0**](https://github.com/mem0ai/mem0) | Memory layer for AI agents and apps | [#7419](https://github.com/mem0ai/mem0/pull/7419) — LLM provider `base_url` docs master list · [#7431](https://github.com/mem0ai/mem0/pull/7431) — AWS Bedrock Converse response parsing fix |
+
+<details>
+<summary>📈 More contributions</summary>
+
+| Project | Contribution |
+| --- | --- |
+| [vllm](https://github.com/vllm-project/vllm) | [#58816](https://github.com/vllm-project/vllm/pull/58816) — fix the Anthropic messages test for Anthropic SDK 1.x |
+| [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | [#12697](https://github.com/QwenLM/qwen-code/pull/12697) **merged** — reject http archive URLs with an actionable error · [#12613](https://github.com/QwenLM/qwen-code/pull/12613) — remove dead `REPLACE` mergeStrategy declarations |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | [#5774](https://github.com/bytedance/deer-flow/pull/5774) **merged** — document runtime environment variables |
+| [TencentCloud/Octop](https://github.com/TencentCloud/Octop) | [#1049](https://github.com/TencentCloud/Octop/pull/1049) — document backup / mobile / browser-idle env overrides |
+| [assistant-ui](https://github.com/assistant-ui/assistant-ui) | [#7983](https://github.com/assistant-ui/assistant-ui/pull/7983) — clarify client refs during SSR in store docs |
+| [laya](https://github.com/NandhaKishorM/laya) | 3 merged docs PRs ([#325](https://github.com/NandhaKishorM/laya/pull/325), [#313](https://github.com/NandhaKishorM/laya/pull/313), [#247](https://github.com/NandhaKishorM/laya/pull/247)) — AGENTS.md contribution rules, benchmark-table accuracy |
+
+</details>
 
 ---
 
