@@ -8,9 +8,9 @@
 
 <div align="center">
 
-<img src="./banner.svg" width="640" alt="Wenjie — AI Application / Agent Developer" />
-
-**`AI Application · Agent Developer`**
+<a href="https://github.com/liwenjie200543">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:0a66c2,100:00c4ff&height=210&section=header&text=Wenjie&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%20Application%20%2F%20Agent%20Developer%20%C2%B7%20Agents%20%C2%B7%20MCP%20%C2%B7%20RAG&descAlignY=62&descSize=18&animation=fadeIn" alt="Wenjie — AI Application / Agent Developer" />
+</a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1300&color=22D3EE&center=true&vCenter=true&width=640&lines=I+build+AI+Agents+%F0%9F%A4%96;Agent+Runtimes+%26+Harnesses+%E2%9A%99%EF%B8%8F;AI-powered+applications+%E2%9C%A8;Context+%C2%B7+Tools+%C2%B7+Eval+%F0%9F%A7%AA)](https://git.io/typing-svg)
 
@@ -119,3 +119,5 @@ Hi, I'm **Wenjie**, an AI application and agent developer. I build **AI Agents, 
 <sub><i>⭐ From [Wenjie](https://github.com/liwenjie200543) — building agents, one tool call at a time.</i></sub>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:0a66c2,100:00c4ff&height=120&section=footer" alt="footer" />
