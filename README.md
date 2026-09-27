@@ -106,12 +106,16 @@ Hi, I'm **Wenjie**, an AI application and agent developer. I build **AI Agents, 
 
 <div align="center">
 
+<!-- stats: github-readme-stats.vercel.app 公共实例曾不可用，故改用 streak-stats（若日后想换回可还原）
 <a href="https://github.com/liwenjie200543">
   <img height="140" src="https://github-readme-stats.vercel.app/api?username=liwenjie200543&show_icons=true&hide_border=true&theme=tokyonight" alt="Wenjie's GitHub stats" />
 </a>
 <a href="https://github.com/liwenjie200543">
   <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liwenjie200543&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
 </a>
+-->
+
+<img width="480" src="https://streak-stats.demolab.com?user=liwenjie200543&hide_border=true&theme=tokyonight" alt="Wenjie's GitHub streak stats" />
 
 <sub><i>⭐ From [Wenjie](https://github.com/liwenjie200543) — building agents, one tool call at a time.</i></sub>
 
