@@ -14,10 +14,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1300&color=22D3EE&center=true&vCenter=true&width=640&lines=I+build+AI+Agents+%F0%9F%A4%96;Agent+Runtimes+%26+Harnesses+%E2%9A%99%EF%B8%8F;AI-powered+applications+%E2%9C%A8;Context+%C2%B7+Tools+%C2%B7+Eval+%F0%9F%A7%AA)](https://git.io/typing-svg)
 
-<!-- TODO: 联系方式（保留你实际使用的，删掉其余）
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-your@email.com-22D3EE?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://your-blog.example.com"><img src="https://img.shields.io/badge/Blog-README-22D3EE?style=flat-square&logo=githubpages&logoColor=white" alt="Blog"/></a>
--->
+<a href="mailto:lwj200543@163.com"><img src="https://img.shields.io/badge/Email-lwj200543%40163.com-22D3EE?style=flat-square" alt="Email"/></a>
 
 </div>
 
@@ -30,7 +27,7 @@ Hi, I'm **Wenjie**, an AI application and agent developer. I build **AI Agents, 
 - 🔭 I'm currently building agent runtimes and AI-powered applications
 - 🌱 Active contributor to **Apache Magpie** (Incubating) and 10+ open-source AI projects — **20+ PRs, 6 merged** and counting
 - 💬 Ask me about **agents, tool calling &amp; MCP, context engineering, RAG, Text-to-SQL**
-- 📫 How to reach me: **TODO**
+- 📫 How to reach me: [lwj200543@163.com](mailto:lwj200543@163.com)
 
 ---
 
