@@ -90,12 +90,12 @@ Hi, I'm **Wenjie**, an AI application and agent developer. I build **AI Agents, 
 
 <!-- TODO: 按真实情况增删 -->
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-22D3EE?style=flat-square)
 ![Pi Agent](https://img.shields.io/badge/Pi_Agent-pi.dev-22D3EE?style=flat-square)
 ![Jev](https://img.shields.io/badge/Jev-Context_Pruning-818CF8?style=flat-square)
 ![DeepSeek Harness](https://img.shields.io/badge/DeepSeek-Harness-34D399?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-22D3EE?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented-818CF8?style=flat-square)
 ![Text to SQL](https://img.shields.io/badge/Text--to--SQL-NL2SQL-34D399?style=flat-square)
 ![LLM](https://img.shields.io/badge/LLM-OpenAI_%7C_Anthropic_%7C_DeepSeek-FF6F00?style=flat-square)
