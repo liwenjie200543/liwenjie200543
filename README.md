@@ -50,11 +50,12 @@ Hi, I'm **Wenjie**, an AI application and agent developer. I build **AI Agents, 
 
 | Project | What it is | My contribution |
 | --- | --- | --- |
-| 🐦 [**Apache Magpie**](https://github.com/apache/magpie) *(Incubating)* | AI assistant framework that helps open-source maintainers triage issues, mentor contributors and draft docs | Contributor — **5 PRs** ([#1390](https://github.com/apache/magpie/pull/1390) merged): trim the issue/PR-triage skill families, harden stats against untrusted timestamps, add Maven artifact verification to release checks |
+| 🐦 [**Apache Magpie**](https://github.com/apache/magpie) *(Incubating)* | AI assistant framework that helps open-source maintainers triage issues, mentor contributors and draft docs | Contributor — **6 PRs** ([#1390](https://github.com/apache/magpie/pull/1390), [#1446](https://github.com/apache/magpie/pull/1446) merged): trim the issue/PR-triage skill families, harden stats against untrusted timestamps, add Maven artifact verification to release checks |
 | 🧠 [**Agno**](https://github.com/agno-agi/agno) | Full-stack framework for building multi-modal agents | [#10600](https://github.com/agno-agi/agno/pull/10600) — reject forged tool continuations and enforce the approval gate on `/continue`, with regression tests |
 | 🌐 [**browser-use**](https://github.com/browser-use/browser-use) | Lets AI agents drive web browsers | [#5919](https://github.com/browser-use/browser-use/pull/5919) — support JSON Schema type arrays (e.g. `["string", "null"]`) in tool schema conversion |
 | 💬 [**LibreChat**](https://github.com/LibreChat-AI/LibreChat) | Open-source AI chat app with multi-provider support | [#16409](https://github.com/LibreChat-AI/LibreChat/pull/16409) — generate titles for Open Responses API conversations (shared-service refactor + 12 tests) |
 | 💾 [**mem0**](https://github.com/mem0ai/mem0) | Memory layer for AI agents and apps | [#7419](https://github.com/mem0ai/mem0/pull/7419) — LLM provider `base_url` docs master list · [#7431](https://github.com/mem0ai/mem0/pull/7431) — AWS Bedrock Converse response parsing fix |
+| 🚁 [**Apache Airflow**](https://github.com/apache/airflow) | Workflow orchestration platform | [#75029](https://github.com/apache/airflow/pull/75029) — fix log-event key collisions (`target`/`msg`) in the task-log supervisor that could escape the loop and leave tasks orphaned |
 
 <details>
 <summary>📈 More contributions</summary>
