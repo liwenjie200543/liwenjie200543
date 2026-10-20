@@ -25,7 +25,7 @@
 Hi, I'm **Wenjie**, an AI application and agent developer. I build **AI Agents, Agent Runtimes and AI-powered applications** — and I care about the whole loop that makes an agent actually work in production: a solid runtime &amp; harness, well-engineered context, reliable tool calling, and the observability &amp; evals to prove it.
 
 - 🔭 I'm currently building agent runtimes and AI-powered applications
-- 🌱 Active contributor to **Apache Magpie** (Incubating) and 10+ open-source AI projects — **20+ PRs, 6 merged** and counting
+- 🌱 Active contributor to **Apache Magpie** (Incubating) and 10+ open-source AI projects — **20+ PRs, 7 merged** and counting
 - 💬 Ask me about **agents, tool calling &amp; MCP, context engineering, RAG, Text-to-SQL**
 - 📫 How to reach me: [liwenjie043@gmail.com](mailto:liwenjie043@gmail.com)
 
@@ -50,7 +50,7 @@ Hi, I'm **Wenjie**, an AI application and agent developer. I build **AI Agents, 
 
 | Project | What it is | My contribution |
 | --- | --- | --- |
-| 🐦 [**Apache Magpie**](https://github.com/apache/magpie) *(Incubating)* | AI assistant framework that helps open-source maintainers triage issues, mentor contributors and draft docs | Contributor — **6 PRs** ([#1390](https://github.com/apache/magpie/pull/1390), [#1446](https://github.com/apache/magpie/pull/1446) merged): trim the issue/PR-triage skill families, harden stats against untrusted timestamps, add Maven artifact verification to release checks |
+| 🐦 [**Apache Magpie**](https://github.com/apache/magpie) *(Incubating)* | AI assistant framework that helps open-source maintainers triage issues, mentor contributors and draft docs | Contributor — **7 PRs** ([#1390](https://github.com/apache/magpie/pull/1390), [#1446](https://github.com/apache/magpie/pull/1446), [#1673](https://github.com/apache/magpie/pull/1673) merged): make the setup pre-flight read each agent harness's own plugin listing instead of probing all of them (29 files, +~700 lines, two upstream conflict resolutions, 12/12 CI green before merge); trim the issue/PR-triage skill families; harden stats against untrusted timestamps; add Maven artifact verification to release checks |
 | 🧠 [**Agno**](https://github.com/agno-agi/agno) | Full-stack framework for building multi-modal agents | [#10600](https://github.com/agno-agi/agno/pull/10600) — reject forged tool continuations and enforce the approval gate on `/continue`, with regression tests |
 | 🌐 [**browser-use**](https://github.com/browser-use/browser-use) | Lets AI agents drive web browsers | [#5919](https://github.com/browser-use/browser-use/pull/5919) — support JSON Schema type arrays (e.g. `["string", "null"]`) in tool schema conversion |
 | 💬 [**LibreChat**](https://github.com/LibreChat-AI/LibreChat) | Open-source AI chat app with multi-provider support | [#16409](https://github.com/LibreChat-AI/LibreChat/pull/16409) — generate titles for Open Responses API conversations (shared-service refactor + 12 tests) |
