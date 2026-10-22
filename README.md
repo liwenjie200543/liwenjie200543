@@ -55,7 +55,7 @@ Hi, I'm **Wenjie**, an AI application and agent developer. I build **AI Agents, 
 | 🌐 [**browser-use**](https://github.com/browser-use/browser-use) | Lets AI agents drive web browsers | [#5919](https://github.com/browser-use/browser-use/pull/5919) — support JSON Schema type arrays (e.g. `["string", "null"]`) in tool schema conversion |
 | 💬 [**LibreChat**](https://github.com/LibreChat-AI/LibreChat) | Open-source AI chat app with multi-provider support | [#16409](https://github.com/LibreChat-AI/LibreChat/pull/16409) — generate titles for Open Responses API conversations (shared-service refactor + 12 tests) |
 | 💾 [**mem0**](https://github.com/mem0ai/mem0) | Memory layer for AI agents and apps | [#7419](https://github.com/mem0ai/mem0/pull/7419) — LLM provider `base_url` docs master list · [#7431](https://github.com/mem0ai/mem0/pull/7431) — AWS Bedrock Converse response parsing fix |
-| 🚁 [**Apache Airflow**](https://github.com/apache/airflow) | Workflow orchestration platform | [#75029](https://github.com/apache/airflow/pull/75029) — fix log-event key collisions (`target`/`msg`) in the task-log supervisor that could escape the loop and leave tasks orphaned |
+| 🚁 [**Apache Airflow**](https://github.com/apache/airflow) | Workflow orchestration platform | [#75029](https://github.com/apache/airflow/pull/75029) — fix log-event key collisions (`target`/`msg`) in the task-log supervisor that could escape the loop and leave tasks orphaned · reviewer-**approved**, addressing review nits |
 
 <details>
 <summary>📈 More contributions</summary>
