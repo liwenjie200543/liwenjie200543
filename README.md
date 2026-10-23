@@ -75,15 +75,11 @@ Hi, I'm **Wenjie**, an AI application and agent developer. I build **AI Agents, 
 
 ### 📌 Featured Projects
 
-<!-- TODO: 把下面三个卡片换成你自己的仓库（哪怕是课程/练手项目也可以），
-     并在 GitHub 个人页 -> "Customize your pins" 里置顶同样的仓库，两边呼应。
-     建议至少有一个"自己的 Agent 项目"，让上面的定位有落地证据。 -->
-
 | Project | Description |
 | --- | --- |
-| 🤖 **[xxx Agent Project](TODO)** | TODO — e.g. an agent runtime / harness I designed, with tool sandboxing &amp; approval gates |
-| ⚙️ **[xxx Runtime / Tooling](TODO)** | TODO — e.g. MCP server, eval harness, or context-engineering toolkit |
-| 🔍 **[xxx RAG / Text-to-SQL](TODO)** | TODO — e.g. a retrieval or Text-to-SQL demo with measured answer quality |
+| 🤖 **[KuseCode](https://github.com/liwenjie200543/KuseCode)** | Minimal coding-agent harness in under 3,000 lines of TypeScript on the Pi agent SDK — a terminal coding agent that reads code, edits code, and enforces its own limits; logs as the single source of truth, Vitest-tested, CI-green |
+
+<!-- 想加更多卡片（MCP / eval harness / RAG demo）时，同步在 GitHub 个人页 "Customize your pins" 置顶。 -->
 
 ---
 
