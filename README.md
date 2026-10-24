@@ -1,11 +1,3 @@
-<!-- ============================================================
-  GitHub Profile README — 使用方法：
-  1. 在 GitHub 上创建与你用户名同名的仓库：liwenjie200543/liwenjie200543
-     （Public，勾选 "Add a README"）
-  2. 把本文件和 banner.svg 一起提交到该仓库根目录
-  3. 搜索下方所有 "TODO" 标记并替换成你的真实信息
-============================================================ -->
-
 <div align="center">
 
 <a href="https://github.com/liwenjie200543">
@@ -79,18 +71,14 @@ Hi, I'm **Wenjie**, an AI application and agent developer. I build **AI Agents, 
 | --- | --- |
 | 🤖 **[KuseCode](https://github.com/liwenjie200543/KuseCode)** | Minimal coding-agent harness in under 3,000 lines of TypeScript on the Pi agent SDK — a terminal coding agent that reads code, edits code, and enforces its own limits; logs as the single source of truth, Vitest-tested, CI-green |
 
-<!-- 想加更多卡片（MCP / eval harness / RAG demo）时，同步在 GitHub 个人页 "Customize your pins" 置顶。 -->
-
 ---
 
 ### 🛠️ Toolbox
 
-<!-- TODO: 按真实情况增删 -->
-
-![Pi Agent](https://img.shields.io/badge/Pi_Agent-pi.dev-22D3EE?style=flat-square)
-![Jev](https://img.shields.io/badge/Jev-Context_Pruning-818CF8?style=flat-square)
-![DeepSeek Harness](https://img.shields.io/badge/DeepSeek-Harness-34D399?style=flat-square)
-![Skill](https://img.shields.io/badge/Skill-SKILL.md-22D3EE?style=flat-square)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-22D3EE?style=flat-square)
