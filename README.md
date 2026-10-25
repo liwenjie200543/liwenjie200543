@@ -17,7 +17,7 @@
 Hi, I'm **Wenjie**, an AI application and agent developer. I build **AI Agents, Agent Runtimes and AI-powered applications** — and I care about the whole loop that makes an agent actually work in production: a solid runtime &amp; harness, well-engineered context, reliable tool calling, and the observability &amp; evals to prove it.
 
 - 🔭 I'm currently building agent runtimes and AI-powered applications
-- 🌱 Active contributor to **Apache Magpie** (Incubating) and 10+ open-source AI projects — **20+ PRs, 7 merged** and counting
+- 🌱 Active contributor to **Apache Magpie** (Incubating) and 10+ open-source AI projects — **22+ PRs, 8 merged** and counting
 - 💬 Ask me about **agents, tool calling &amp; MCP, context engineering, RAG, Text-to-SQL**
 - 📫 How to reach me: [liwenjie043@gmail.com](mailto:liwenjie043@gmail.com)
 
@@ -38,7 +38,7 @@ Hi, I'm **Wenjie**, an AI application and agent developer. I build **AI Agents, 
 
 ### 🚀 Open Source
 
-**20+ PRs across the AI agent ecosystem** — framework, runtime security, tool calling, memory, and application layers:
+**22+ PRs across the AI agent ecosystem** — framework, runtime security, tool calling, memory, and application layers:
 
 | Project | What it is | My contribution |
 | --- | --- | --- |
